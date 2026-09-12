@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Deleted asynchronous Web APIs bounty",
+    "source_url": "https://app.opire.dev/issues/01JN06N9GS8Q1KB2NJ318258HR",
+    "original_url": "https://github.com/6over3/zeroperl/issues/7",
+    "reward_usd": 1500,
+    "entry_fee_usd": 0,
+    "status_open": null,
+    "ai_assistance_allowed": null,
+    "payout_terms_present": true,
+    "original_source_present": false,
+    "competitors": 0,
+    "notes": ["Aggregator listed the reward, but GitHub reports that the issue was deleted."]
+  },
+  {
+    "title": "Agents for Humans Hackathon",
+    "source_url": "https://agentsforhumans.devpost.com/rules",
+    "original_url": "https://agentsforhumans.devpost.com/rules",
+    "reward_usd": 1000,
+    "entry_fee_usd": 0,
+    "deadline": "2026-09-15T00:00:00Z",
+    "status_open": true,
+    "ai_assistance_allowed": true,
+    "identity_action_required": true,
+    "personal_performance_required": false,
+    "payout_terms_present": true,
+    "original_source_present": true,
+    "competitors": 9140,
+    "notes": ["Official rules allow AI coding assistants and require an adult eligible entrant."]
+  }
+]
+
